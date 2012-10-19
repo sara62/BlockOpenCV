@@ -28,11 +28,11 @@ sudo git clone https://github.com/kod3000/BlockOpenCV.git opencv2.4.2
 
 `````
 
-- Open up an example using xcode and start building!
+- using xcode open up an example and start building!
 
 
 
-### Note - You'll need the cinder library to be compiled at 64bit in order to run the example files. [ You can get the working copy that I use ] (https://github.com/kod3000/Cinder/tree/dany) with all the needed support already there.
+### Note - You'll need to have the cinder library compiled at 64bit in order to run the example files. [ You can get the working copy that I use ] (https://github.com/kod3000/Cinder/tree/dany) with all the needed support already done for you.
 
 
 
@@ -47,6 +47,6 @@ sudo git clone https://github.com/kod3000/BlockOpenCV.git opencv2.4.2
 ----------------------
 
 
- Lots of thanks to the core cinder team. Without them none of this would be possible.
+ Lots of thanks to the core cinder team. Without them none of this would be possible. Cinder + OpenCV = <3
 
 
