@@ -18,7 +18,9 @@ Integrates OpenCV 2.4.2
 --------------------
 
 - open up terminal
+
 - navigate to your cinder blocks folder (i.e. UserName$ cd /Developer/Cinder/blocks)
+
 - do a git clone of the repo using the command :
 
 `````
@@ -39,6 +41,7 @@ sudo git clone https://github.com/kod3000/BlockOpenCV.git opencv2.4.2
 
 
 ### If you're running on Windows 64bit and know your way around compiling static libraries please contribute to this block. Thanks!
+
 
 
 ----------------------
