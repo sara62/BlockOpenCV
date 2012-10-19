@@ -1,5 +1,4 @@
 
-
 # BlockOpenCV
 
 This is the OpenCV CinderBlock, designed for use with the open-source C++ library Cinder: http://libcinder.org
@@ -7,9 +6,9 @@ This is the OpenCV CinderBlock, designed for use with the open-source C++ librar
 Integrates OpenCV 2.4.2
 
 
-## These projects are meant to run on Mountain Lion OSX with xcode version 4.5
+* These projects are meant to run on Mountain Lion OSX with xcode version 4.5 *
 
-## Support for Anything less please see the Older OpenCV Block 
+* Support for Anything less please see the Older OpenCV Block *
 
 
 # Installation : 
