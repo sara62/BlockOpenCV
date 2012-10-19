@@ -23,7 +23,14 @@ sudo git clone https://github.com/kod3000/BlockOpenCV.git opencv2.4.2
 
 - Open up an example using xcode and start building!
 
+
+
 Note - You'll need the cinder library to be compiled at 64bit in order to run the example files. [ You can get the working copy that I use ] (https://github.com/kod3000/Cinder) with all the needed support.
+
+
+
+
+
 
 
 ### If you're running on Windows 64bit and know your way around compiling static libraries please contribute to this block. Thanks!
