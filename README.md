@@ -47,6 +47,6 @@ sudo git clone https://github.com/kod3000/BlockOpenCV.git opencv2.4.2
 ----------------------
 
 
- Lots of thanks to the core cinder team. Without them none of this would be possible. Cinder + OpenCV = <3
+ Lots of thanks to the core cinder team. Without them none of this would be possible. Cinder 0.8.5 + OpenCV 2.4.2 = ♥
 
 
